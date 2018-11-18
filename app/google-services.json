@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "177061567672",
+    "firebase_url": "https://iceup-production.firebaseio.com",
+    "project_id": "iceup-production",
+    "storage_bucket": "iceup-production.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177061567672:android:1942ecc04f6a8593",
+        "android_client_info": {
+          "package_name": "in.iceup.iceup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177061567672-4gk936fuus8j21ilan83jr79hc5b264v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.iceup.iceup",
+            "certificate_hash": "e94f530dd4a7f0debc35b796547ebdfa64f2636c"
+          }
+        },
+        {
+          "client_id": "177061567672-q2eddfjf9lu5e1regd6obplehvhsj0an.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCegupw7TmXxA-2JGdwI-6uV5JVSvgvmlw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177061567672-q2eddfjf9lu5e1regd6obplehvhsj0an.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

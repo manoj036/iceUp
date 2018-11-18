@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">iceUp</string>
+    <string name="email"><u>Catch us at iceup.in</u></string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
